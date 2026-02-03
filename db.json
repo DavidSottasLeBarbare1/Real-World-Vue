@@ -14,13 +14,13 @@
     {
       "id": 4582797,
       "category": "Politic",
-      "title": "Senan's ceremony",
-      "description": "Senan becomes the 45th president of sri lanka",
+      "title": "Sehnan's ceremony",
+      "description": "Sehnan becomes the 45th president of sri lanka",
       "location": "Colombo",
       "date": "March 14, 1760",
       "time": "10:00",
       "petsAllowed": true,
-      "organizer": "Senan Gnanassorian"
+      "organizer": "Sehnan Gnanassorian"
     },
     {
       "id": 8419988,
@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Bertrand Sahli"
+    },
+    {
+      "id": 272727,
+      "category": "Achievement",
+      "title": "Sehnan's wake up",
+      "description": "The Colombo's mayor is waking up after a very long nap",
+      "location": "Colombo",
+      "date": "March 13, 2026",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Travi Scott"
     }
   ]
 }
